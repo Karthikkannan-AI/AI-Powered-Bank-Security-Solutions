@@ -26,7 +26,7 @@
 ## Analysis of the Problem ##
 
 | Date | Bank | News | Key Points |
-| :-------------- | :-------------- | :-------------- |
+| :-------------- | :-------------- | :-------------- | :-------------- |
 | 23 Sep 2020 (Manipur) | SBI ATM | https://bit.ly/37yr0RA | 1.15 Crores Robbed One Died Gun Used |
 | 29  Sep 2020 (Orissa) | Bank of India | https://bit.ly/3ohgiVG | 2 Airguns Wearing Helmet 9.5 Lakh Robbed |
 | Oct 5 2020 (Orissa) | IOB & Bank of India | https://bit.ly/37pUpNU | Attempt in Bank Branch 12 Lakh Robbed Toy Gun Used |
