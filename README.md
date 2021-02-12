@@ -23,9 +23,9 @@
 
 ## The Problem ##
 
-## Analysis of the Problem ##
+### Analysis of the Problem ###
 
-### Gun / Masked  Robbery Attempts ###
+#### Gun / Masked  Robbery Attempts ####
 
 | Date | Bank | News | Key Points |
 | :-------------- | :-------------- | :-------------- | :-------------- |
@@ -43,7 +43,7 @@
 | Jan 22 2021 Tamilnadu | Muthoot Finance | https://bit.ly/394gvGa | Gun is Used 7 Crores worth of Robbery |
 
 
-### Untapped Business Opportunity ###
+### Facts ###
 
 There is a __Genuine need for AI powered security solutions__ from the below financial Institutions  to save their Assets and Lives 
 
@@ -53,3 +53,9 @@ There is a __Genuine need for AI powered security solutions__ from the below fin
 | Opportunity 2  | Gold Loan Financial Services Company( NBFC)  | Securing the Gold in the Premises.Identify Human Intrusion in and around the premises during Night | __Approx. 16,000 Branches__ |
 | Opportunity 3  | Opportunity in Bank Branches | Armed Robbery and Breakin robbery prevention  | __1,20,000 Branches in India__ |
 | Opportunity 4  | Gold and Diamond Retail Shop | Securing the Asset Identify Human Intrusion in and around the Store during Night | __Approx. 785 Branches__ |
+
+- - - -
+
+## Proposed Solution ##
+
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution.png">
