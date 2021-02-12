@@ -73,7 +73,7 @@ __TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
 | 08 | IDFC FIRST | 293 | 14 | 307 |
 | 09 | TMB | 589 | 731 | 1320 |
 | 10 | Karur Vysya Bank  | 743 | 911 | 1654 |
-|  | TOTAL | 25416 | 35154 |  |
+|  | __TOTAL__ | __25416__ | __35154__ |  |
 
 | SNO | PSU Banks | Onsite ATM | Offsite ATM | Total |
 | :---------- | :---------- | :---------- | :---------- | :---------- |
