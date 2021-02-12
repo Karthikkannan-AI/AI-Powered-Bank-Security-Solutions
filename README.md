@@ -58,16 +58,15 @@ There is a __Genuine need for AI powered security solutions__ from the below fin
 
 ## Proposed Solution ##
 
-<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%202.png">
 
 The below Picture Showcases our Extensive Wok in Data Collection to build a __robust custom Deep Learning Model__ to Identify Robbery Face Mask 
 
-<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%202.png">
-
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%203.png">
 
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
 
 
 ### Evaluation of the Proposed Solution ###
