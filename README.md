@@ -59,3 +59,5 @@ There is a __Genuine need for AI powered security solutions__ from the below fin
 ## Proposed Solution ##
 
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
+
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%202.png">
