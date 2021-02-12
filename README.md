@@ -54,6 +54,13 @@ There is a __Genuine need for AI powered security solutions__ from the below fin
 | Opportunity 3  | Opportunity in Bank Branches | Armed Robbery and Breakin robbery prevention  | __1,20,000 Branches in India__ |
 | Opportunity 4  | Gold and Diamond Retail Shop | Securing the Asset Identify Human Intrusion in and around the Store during Night | __Approx. 785 Branches__ |
 
+__TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
+
+| ATM | Overview | Total Number |
+| :---------- | :---------- | :---------- |
+| Onsite ATM | These are ATM machines that are set up in the premises where there is a bank branch so that both the physical branch and the ATM can be used. | 112944 |
+| Offsite ATM | These are the machines that are set up on a standalone basis. This means that the bank has a place where there is only an ATM machine then this becomes an off site ATM. This is done to ensure that the bank reaches out to more geographical areas and that people are able to use its services even when there is no bank branch in the area. | 97319 |
+
 - - - -
 
 ## Proposed Solution ##
