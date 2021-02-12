@@ -81,7 +81,7 @@ __TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
 | 02 | Punjab National Bank  | 5406 | 3713 | 9119 |
 |  | United Bank of India | 1016 | 1001 | 2017 |
 |  | Oriental Bank of commerce | 2341 | 267 | 2608 |
-|  |  |  |  | 13744 |
+|  |  |  |  | __13744__ |
 | 03 | CANARA Bank | 4755 | 4065 | 8820 |
 |  | Syndicate Bank | 4714 | 403 | 5117 |
 |  |  |  |  | __13937__ |
