@@ -75,6 +75,25 @@ __TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
 | 10 | Karur Vysya Bank  | 743 | 911 | 1654 |
 |  | TOTAL | 25416 | 35154 |  |
 
+| SNO | PSU Banks | Onsite ATM | Offsite ATM | Total |
+| :---------- | :---------- | :---------- | :---------- | :---------- |
+| 01 | SBI | 25594 | 32910 | 58504 |
+| 02 | Punjab National Bank  | 5406 | 3713 | 9119 |
+|  | United Bank of India | 1016 | 1001 | 2017 |
+|  | Oriental Bank of commerce | 2341 | 267 | 2608 |
+|  |  |  |  | 13744 |
+| 03 | CANARA Bank | 4755 | 4065 | 8820 |
+|  | Syndicate Bank | 4714 | 403 | 5117 |
+|  |  |  |  | __13937__ |
+| 04 | Indian Bank | 3305 | 703 | 4008 |
+|  | Allahabad Bank | 771 | 95 | 866 |
+|  |  |  |  | __4874__ |
+| 05 | Union Bank of India | 3949 | 2892 | 6841 |
+|  | Andhra Bank | 3024 | 773 | 3797 |
+|  | Corporation Bank  | 2424 | 425 | 2849 |
+|  |  |  |  | __13487__ |
+| 06 | Bank of Baroda | 9320 | 3847 | __13167__ |
+
 
 - - - -
 
