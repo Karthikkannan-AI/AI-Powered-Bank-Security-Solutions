@@ -47,7 +47,7 @@
 
 There is a __Genuine need for AI powered security solutions__ from the below financial Institutions  to save their Assets and Lives 
 
-| Serial No. | Applications | Analysis | Cost |
+| Serial Number | Applications | Analysis | Cost |
 | :-------------- | :-------------- | :-------------- | :-------------- |
 | Opportunity 1  | Opportunity in ATM  | ATM Robbery Reduce the Cost of Watchman | __Approx. 2.10 Lakh ATM in India__ |
 | Opportunity 2  | Gold Loan Financial Services Company( NBFC)  | Securing the Gold in the Premises.Identify Human Intrusion in and around the premises during Night | __Approx. 16,000 Branches__ |
