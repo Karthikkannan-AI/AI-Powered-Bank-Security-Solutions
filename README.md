@@ -25,6 +25,8 @@
 
 ## Analysis of the Problem ##
 
+### Gun / Masked  Robbery Attempts ###
+
 | Date | Bank | News | Key Points |
 | :-------------- | :-------------- | :-------------- | :-------------- |
 | 23 Sep 2020 (Manipur) | SBI ATM | https://bit.ly/37yr0RA | 1.15 Crores Robbed One Died Gun Used |
@@ -39,3 +41,15 @@
 | Jan 08 2021 (Mumbai) | Gold Retailer | http://bit.ly/3c7O4sV | Gun is used 2 crores worth of Robbery |
 | Jan 22 2021 (Kolkatta) | Nationalised Bank | http://bit.ly/3o6QoCH | Gun is Used 40 Lakhs Robbed |
 | Jan 22 2021 Tamilnadu | Muthoot Finance | https://bit.ly/394gvGa | Gun is Used 7 Crores worth of Robbery |
+
+
+### Untapped Business Opportunity ###
+
+There is a __Genuine need for AI powered security solutions__ from the below financial Institutions  to save their Assets and Lives 
+
+| Sl.No | Applications | Analysis | Cost |
+| :-------------- | :-------------- | :-------------- | :-------------- |
+| Opportunity 1  | Opportunity in ATM  | ATM Robbery Reduce the Cost of Watchman | __Approx. 2.10 Lakh ATM in India__ |
+| Opportunity 2  | Gold Loan Financial Services Company( NBFC)  | Securing the Gold in the Premises.Identify Human Intrusion in and around the premises during Night | __Approx. 16,000 Branches__ |
+| Opportunity 3  | Opportunity in Bank Branches | Armed Robbery and Breakin robbery prevention  | __1,20,000 Branches in India__ |
+| Opportunity 4  | Gold and Diamond Retail Shop | Securing the Asset Identify Human Intrusion in and around the Store during Night | __Approx. 785 Branches__ |
