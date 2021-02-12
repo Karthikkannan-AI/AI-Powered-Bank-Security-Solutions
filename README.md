@@ -2,16 +2,16 @@
 
 ## Table of Contents ##
 
-* [Introduction]()
-* [The Problem]()
-  * [Analysis of the Problem]()
-  * [Facts]()
-* [Proposed Solution]()
-  * [Solution Workflow]()
-  * [Evaluation of the proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [Introduction](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#introduction)
+* [The Problem](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#the-problem)
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#analysis-of-the-problem)
+  * [Facts](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#facts)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#proposed-solution)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#rebounding-from-covid-19)
 
 - - - -
 
@@ -60,6 +60,21 @@ __TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
 | :---------- | :---------- | :---------- |
 | Onsite ATM | These are ATM machines that are set up in the premises where there is a bank branch so that both the physical branch and the ATM can be used. | 112944 |
 | Offsite ATM | These are the machines that are set up on a standalone basis. This means that the bank has a place where there is only an ATM machine then this becomes an off site ATM. This is done to ensure that the bank reaches out to more geographical areas and that people are able to use its services even when there is no bank branch in the area. | 97319 |
+
+| SNO | Private Banks | Onsite ATM | Offsite ATM | Total |
+| :---------- | :---------- | :---------- | :---------- | :---------- |
+| 01 | HDFC | 6238 | 7678 | 13916 |
+| 02 | ICICI | 7227 | 10137 | 17364 |
+| 03 | AXIS | 5392 | 12113 | 17505 |
+| 04 | KOTAK MAHINDRA | 1247 | 1220 | 2467 |
+| 05 | INDUS IND | 1232 | 1510 | 2742 |
+| 06 | FEDERAL | 1468 | 500 | 1968 |
+| 07 | YES | 997 | 340 | 1337 |
+| 08 | IDFC FIRST | 293 | 14 | 307 |
+| 09 | TMB | 589 | 731 | 1320 |
+| 10 | Karur Vysya Bank  | 743 | 911 | 1654 |
+|  | TOTAL | 25416 | 35154 |  |
+
 
 - - - -
 
