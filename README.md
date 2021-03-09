@@ -5,7 +5,6 @@
 * [Introduction](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#introduction)
 * [The Problem](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#analysis-of-the-problem)
-  * [Facts](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#facts)
 * [Proposed Solution](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#proposed-solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/ATM-Security-Solutions#evaluation-of-the-proposed-solution)
@@ -41,59 +40,6 @@
 | Jan 08 2021 (Mumbai) | Gold Retailer | http://bit.ly/3c7O4sV | Gun is used 2 crores worth of Robbery |
 | Jan 22 2021 (Kolkatta) | Nationalised Bank | http://bit.ly/3o6QoCH | Gun is Used 40 Lakhs Robbed |
 | Jan 22 2021 Tamilnadu | Muthoot Finance | https://bit.ly/394gvGa | Gun is Used 7 Crores worth of Robbery |
-
-
-### Facts ###
-
-There is a __Genuine need for AI powered security solutions__ from the below financial Institutions  to save their Assets and Lives 
-
-| Serial Number | Applications | Analysis | Cost |
-| :-------------- | :-------------- | :-------------- | :-------------- |
-| Opportunity 1  | Opportunity in ATM  | ATM Robbery Reduce the Cost of Watchman | __Approx. 2.10 Lakh ATM in India__ |
-| Opportunity 2  | Gold Loan Financial Services Company( NBFC)  | Securing the Gold in the Premises.Identify Human Intrusion in and around the premises during Night | __Approx. 16,000 Branches__ |
-| Opportunity 3  | Opportunity in Bank Branches | Armed Robbery and Breakin robbery prevention  | __1,20,000 Branches in India__ |
-| Opportunity 4  | Gold and Diamond Retail Shop | Securing the Asset Identify Human Intrusion in and around the Store during Night | __Approx. 785 Branches__ |
-
-__TOTAL NUMBERS OF ATM ( As on March 2020) 2,10,263__
-
-| ATM | Overview | Total Number |
-| :---------- | :---------- | :---------- |
-| Onsite ATM | These are ATM machines that are set up in the premises where there is a bank branch so that both the physical branch and the ATM can be used. | 112944 |
-| Offsite ATM | These are the machines that are set up on a standalone basis. This means that the bank has a place where there is only an ATM machine then this becomes an off site ATM. This is done to ensure that the bank reaches out to more geographical areas and that people are able to use its services even when there is no bank branch in the area. | 97319 |
-
-| SNO | Private Banks | Onsite ATM | Offsite ATM | Total |
-| :---------- | :---------- | :---------- | :---------- | :---------- |
-| 01 | HDFC | 6238 | 7678 | 13916 |
-| 02 | ICICI | 7227 | 10137 | 17364 |
-| 03 | AXIS | 5392 | 12113 | 17505 |
-| 04 | KOTAK MAHINDRA | 1247 | 1220 | 2467 |
-| 05 | INDUS IND | 1232 | 1510 | 2742 |
-| 06 | FEDERAL | 1468 | 500 | 1968 |
-| 07 | YES | 997 | 340 | 1337 |
-| 08 | IDFC FIRST | 293 | 14 | 307 |
-| 09 | TMB | 589 | 731 | 1320 |
-| 10 | Karur Vysya Bank  | 743 | 911 | 1654 |
-|  | __TOTAL__ | __25416__ | __35154__ |  |
-
-| SNO | PSU Banks | Onsite ATM | Offsite ATM | Total |
-| :---------- | :---------- | :---------- | :---------- | :---------- |
-| 01 | SBI | 25594 | 32910 | 58504 |
-| 02 | Punjab National Bank  | 5406 | 3713 | 9119 |
-|  | United Bank of India | 1016 | 1001 | 2017 |
-|  | Oriental Bank of commerce | 2341 | 267 | 2608 |
-|  |  |  |  | __13744__ |
-| 03 | CANARA Bank | 4755 | 4065 | 8820 |
-|  | Syndicate Bank | 4714 | 403 | 5117 |
-|  |  |  |  | __13937__ |
-| 04 | Indian Bank | 3305 | 703 | 4008 |
-|  | Allahabad Bank | 771 | 95 | 866 |
-|  |  |  |  | __4874__ |
-| 05 | Union Bank of India | 3949 | 2892 | 6841 |
-|  | Andhra Bank | 3024 | 773 | 3797 |
-|  | Corporation Bank  | 2424 | 425 | 2849 |
-|  |  |  |  | __13487__ |
-| 06 | Bank of Baroda | 9320 | 3847 | __13167__ |
-
 
 - - - -
 
