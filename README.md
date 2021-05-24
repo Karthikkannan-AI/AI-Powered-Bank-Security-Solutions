@@ -81,7 +81,13 @@ The below Picture Showcases our Extensive Wok in Data Collection to build a __ro
 
 ### Evaluation of the Proposed Solution ###
 
+<a href="https://youtu.be/Wfai_hyOSoE" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Bank-Security-Solutions/blob/main/resources/Drilling%20Machine_1.png"/></a> 
 
+<a href="https://youtu.be/KJ5cH7dIdpY" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Bank-Security-Solutions/blob/main/resources/Drilling%20Machine_2.png"/></a> 
+
+<a href="https://youtu.be/TYYJPrjWa9g" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Bank-Security-Solutions/blob/main/resources/Gun%20Identification_1.jpg"/></a>
+
+<a href="https://youtu.be/unP3MXVcGOs" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Bank-Security-Solutions/blob/main/resources/Mask%20Identification_night.jpg"/></a>
 
 ### Advantages of AI powered Bank Security Solutions ###
 
