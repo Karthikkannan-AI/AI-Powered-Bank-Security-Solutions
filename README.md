@@ -16,13 +16,13 @@
 
 ## Introduction ##
 
-What is our Security Solution for Banks?
+Security is a major concern for banks to safeguard the assets (Money, Gold).ETOP Technologies offers Artificial Intelligence Powered Enhanced Security solutions to Banks, Gold Loan NBFC’s. From the Real-time CCTV Feed we can identify the following and Trigger Alerts instantaneously to the Control Room. 
 
-ETOP Technologies offers Artificial Intelligence Powered Enhanced Security solutions to Banks, Gold Loan NBFC’s. From the Real-time CCTV Feed we can identify the following and Trigger Alerts instantaneously to the Control Room. 
-
-    • Robbery Mask 
-    • Gun 
-    • Drilling Machine 
+  * Robbery Mask 
+  
+  * Gun 
+   
+  * Drilling Machine 
 
 - - - -
 
@@ -30,7 +30,7 @@ ETOP Technologies offers Artificial Intelligence Powered Enhanced Security solut
 
 ### Analysis of the Problem ###
 
-#### Gun / Masked  Robbery Attempts ####
+#### Gun / Masked  Robbery Attempts in Banks ####
 
 | Date | Bank | News | Key Points |
 | :-------------- | :-------------- | :-------------- | :-------------- |
@@ -58,19 +58,32 @@ Robberies/ Break-ins are increasing in Gold Loan NBFC for the past couple of yea
 | 16th Oct 2020 | Muthoot | Ludhiana, Punjab | ₹150 million |  |
 | 17th Oct 2020 | Manappuram | Kolkata, West Bengal | NA | 25 KGS |
 | 19th Nov 2020 | IIFL | Cuttack, Odisha | ₹120 million | 39.5 KGS |
-| Jan 22 2021 | Muthoot |Hosur, Tamilnadu | NA | 25 KGS |
+| Jan 22 2021 | Muthoot | Hosur, Tamilnadu | NA | 25 KGS |
+
+Here we bring it to the notice of armed roberry/break in attempts in banks and gold loan financial institutions.
 
 - - - -
 
 ## Proposed Solution ##
 
+### Solution Workflow ###
+
+<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
+
 The below Picture Showcases our Extensive Wok in Data Collection to build a __robust custom Deep Learning Model__ to Identify Robbery Face Mask 
 
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%202.png">
 
+### Test Results ###
+
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%203.png">
 
-__Advantages__
+
+### Evaluation of the Proposed Solution ###
+
+
+
+### Advantages of AI powered Bank Security Solutions ###
 
 1.Identify the Threat Immediately 
 
@@ -86,12 +99,7 @@ Why you need this Technology?
 
 The Existing CCTV security system in Banks and Gold Loan NBFC just records the data, in our proposed Solution using Artificial Intelligence, the CCTV data is processed in real-time and if it identifies the threat ( Gun, Robbery Mask and Drilling Machine), immediately ALARM is Triggered
 
-### Solution Workflow ###
 
-<img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
-
-
-### Evaluation of the Proposed Solution ###
 
 
 
@@ -100,7 +108,7 @@ The Existing CCTV security system in Banks and Gold Loan NBFC just records the d
 
 ## Conclusion ##
 
-
+Embracing AI Powered Security solutions can help save pprecious human lives and assets
 
 - - - -
 
