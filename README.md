@@ -1,4 +1,4 @@
-# ATM Security Solutions
+# AI Powered Bank Security Solutions
 
 ## Table of Contents ##
 
@@ -16,7 +16,13 @@
 
 ## Introduction ##
 
+What is our Security Solution for Banks?
 
+ETOP Technologies offers Artificial Intelligence Powered Enhanced Security solutions to Banks, Gold Loan NBFC’s. From the Real-time CCTV Feed we can identify the following and Trigger Alerts instantaneously to the Control Room. 
+
+    • Robbery Mask 
+    • Gun 
+    • Drilling Machine 
 
 - - - -
 
@@ -41,6 +47,19 @@
 | Jan 22 2021 (Kolkatta) | Nationalised Bank | http://bit.ly/3o6QoCH | Gun is Used 40 Lakhs Robbed |
 | Jan 22 2021 Tamilnadu | Muthoot Finance | https://bit.ly/394gvGa | Gun is Used 7 Crores worth of Robbery |
 
+Robberies/ Break-ins are increasing in Gold Loan NBFC for the past couple of years. 
+
+| Date | NBFC | Branch | Amount Involved | Gold Involved |
+| :-------------- | :-------------- | :-------------- | :-------------- | :-------------- |
+| 6th Feb 2019 | Muthoot | Bhagwanpur, Bihar | NA | 32 KGS |
+| 24th Aug 2019 | Muthoot | Siliguri, West Bengal | ₹100 million | NA |
+| 23rd Nov 2019 | Muthoot | Hajipur, Bihar | ₹210 million | 51 KGS |
+| 17th Feb 2020 | IIFL | Ludhiana, Punjab | ₹120 million | 30 KGS |
+| 16th Oct 2020 | Muthoot | Ludhiana, Punjab | ₹150 million |  |
+| 17th Oct 2020 | Manappuram | Kolkata, West Bengal | NA | 25 KGS |
+| 19th Nov 2020 | IIFL | Cuttack, Odisha | ₹120 million | 39.5 KGS |
+| Jan 22 2021 | Muthoot |Hosur, Tamilnadu | NA | 25 KGS |
+
 - - - -
 
 ## Proposed Solution ##
@@ -50,6 +69,22 @@ The below Picture Showcases our Extensive Wok in Data Collection to build a __ro
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%202.png">
 
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%203.png">
+
+__Advantages__
+
+1.Identify the Threat Immediately 
+
+2.Save Employee Lives 
+
+3.Enhanced Security 
+
+4.Safely Securing the Asset
+
+
+
+Why you need this Technology?
+
+The Existing CCTV security system in Banks and Gold Loan NBFC just records the data, in our proposed Solution using Artificial Intelligence, the CCTV data is processed in real-time and if it identifies the threat ( Gun, Robbery Mask and Drilling Machine), immediately ALARM is Triggered
 
 ### Solution Workflow ###
 
