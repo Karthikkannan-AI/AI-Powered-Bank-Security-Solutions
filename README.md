@@ -68,6 +68,8 @@ Here we bring it to the notice of armed roberry/break in attempts in banks and g
 
 ### Solution Workflow ###
 
+<img src="https://github.com/Karthikkannan-AI/AI-Powered-Bank-Security-Solutions/blob/main/resources/Solution%20Workflow.jpg">
+
 <img src="https://github.com/Karthikkannan-AI/ATM-Security-Solutions/blob/main/resources/Solution%201.png">
 
 The below Picture Showcases our Extensive Wok in Data Collection to build a __robust custom Deep Learning Model__ to Identify Robbery Face Mask 
