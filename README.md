@@ -101,7 +101,7 @@ The below Picture Showcases our Extensive Wok in Data Collection to build a __ro
 
 
 
-Why Banks and NBFC Gold Loans need this Technology?
+### Why Banks and NBFC Gold Loans need this Technology? ###
 
 The Existing CCTV security system in Banks and Gold Loan NBFC just records the data, in our proposed Solution using Artificial Intelligence, the CCTV data is processed in real-time and if it identifies the threat ( Gun, Robbery Mask and Drilling Machine), immediately ALARM is Triggered
 
