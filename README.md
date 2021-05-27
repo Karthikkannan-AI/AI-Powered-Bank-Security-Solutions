@@ -55,7 +55,7 @@ Robberies/ Break-ins are increasing in Gold Loan NBFC for the past couple of yea
 | 24th Aug 2019 | Muthoot | Siliguri, West Bengal | ₹100 million | NA |
 | 23rd Nov 2019 | Muthoot | Hajipur, Bihar | ₹210 million | 51 KGS |
 | 17th Feb 2020 | IIFL | Ludhiana, Punjab | ₹120 million | 30 KGS |
-| 16th Oct 2020 | Muthoot | Ludhiana, Punjab | ₹150 million |  |
+| 16th Oct 2020 | Muthoot | Ludhiana, Punjab | ₹150 million | NA |
 | 17th Oct 2020 | Manappuram | Kolkata, West Bengal | NA | 25 KGS |
 | 19th Nov 2020 | IIFL | Cuttack, Odisha | ₹120 million | 39.5 KGS |
 | Jan 22 2021 | Muthoot | Hosur, Tamilnadu | NA | 25 KGS |
@@ -101,7 +101,7 @@ The below Picture Showcases our Extensive Wok in Data Collection to build a __ro
 
 
 
-Why you need this Technology?
+Why Banks and NBFC Gold Loans need this Technology?
 
 The Existing CCTV security system in Banks and Gold Loan NBFC just records the data, in our proposed Solution using Artificial Intelligence, the CCTV data is processed in real-time and if it identifies the threat ( Gun, Robbery Mask and Drilling Machine), immediately ALARM is Triggered
 
@@ -114,7 +114,7 @@ The Existing CCTV security system in Banks and Gold Loan NBFC just records the d
 
 ## Conclusion ##
 
-Embracing AI Powered Security solutions can help save pprecious human lives and assets
+Embracing AI Powered Security solutions can help save precious human lives and assets
 
 - - - -
 
